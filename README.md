@@ -66,12 +66,12 @@
 
 ## Linked List
 
-- [x] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
-- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [x] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [x] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [x] [Reorder List](https://leetcode.com/problems/reorder-list/)
+- [] [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [] [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [] [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
@@ -87,7 +87,7 @@
 ## String
 
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
